@@ -10,12 +10,6 @@
     "email": "luke@lukeed.com",
     "url": "lukeed.com"
   },
-  "main": "dist/dom-selection.js",
-  "umd:main": "dist/dom-selection.min.js",
-  "module": "dist/dom-selection.es.js",
-  "files": [
-    "dist"
-  ],
   "engines": {
     "node": ">=0.10.0"
   },

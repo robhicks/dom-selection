@@ -1,4 +1,4 @@
-import nextNode from 'next-node';
+import nextNode from './next-node.js';
 
 const win = window;
 const doc = document;
